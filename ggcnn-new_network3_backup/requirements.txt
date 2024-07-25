@@ -4,7 +4,7 @@ matplotlib
 scikit-image
 imageio
 tensorboardX
-torch==1.0.1
+torch==2.2.0
 torchvision==0.2.0
 torchsummary
 
